@@ -2,4 +2,5 @@
 
 # This project aims to extract text from pdf and images specially for Arabic
 
-![Untitled video - Made with Clipchamp (2) - Copy](https://github.com/Lama-Aldhafeeri/Extract-text-/assets/84765301/d078fc58-e008-4356-90dd-f7f5f8639b4c)
+![Untitled video - Made with Clipchamp](https://github.com/Lama-Aldhafeeri/Extract-text-/assets/84765301/5fb04766-1b46-4ac8-b55c-42a50e51ee6a)
+
